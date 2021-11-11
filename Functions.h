@@ -14,7 +14,7 @@ void commands()
 void separate(char type)
 {
     cout << "\n";
-    for (int i (0); i < 50; i++)
+    for (int i {0}; i < 50; i++)
     {
         cout << type;
     }
